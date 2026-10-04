@@ -39,7 +39,6 @@ apis:
   - name: Chinese Text Project
     description: "Online open-access digital library for pre-modern Chinese texts"
     humanURL: https://ctext.org/tools/api
-    baseURL: https://ctext.org/tools/api
     tags:
       - Dictionaries
     properties:
